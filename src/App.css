@@ -1,0 +1,9 @@
+.App {
+  padding: 5px;
+}
+
+.Toastify__toast {
+  background-color: blue !important;
+  color: #fff !important;
+  border-radius: 18px;
+}
